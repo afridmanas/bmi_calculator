@@ -11,4 +11,3 @@ The BMI calculator app is designed to be easy to use and understand. The user in
 
 The BMI calculator app is an excellent tool for people who are trying to lose weight, gain weight, or maintain their current weight. It is also a useful tool for healthcare professionals who need to monitor the weight and health of their patients. The app can be used by anyone, anywhere, at any time, making it a convenient and accessible tool for managing weight and health.
 
-In conclusion, the BMI calculator app built using the Flutter language provides a simple and convenient way to calculate the body mass index of an individual. It is an accessible and user-friendly tool for managing weight and health, and is an excellent resource for individuals and healthcare professionals alike.
